@@ -1,4 +1,4 @@
-# neares word API
+# nearest word API
 
 Flask + Docker to serve API finding nearest word based on word embeddings
 
